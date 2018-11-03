@@ -1,15 +1,13 @@
-package com.example.android.bookstore.data;
+package com.example.android.bookstore;
 
 import android.content.Context;
 import android.database.Cursor;
-import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
 
-import com.example.android.bookstore.R;
 import com.example.android.bookstore.data.BookContract;
 
 /**
